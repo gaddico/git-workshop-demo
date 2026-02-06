@@ -1,2 +1,3 @@
 Getting started with git
 More changes 
+Added new changes
